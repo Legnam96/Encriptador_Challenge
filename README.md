@@ -53,4 +53,8 @@ El proyecto está estructurado de la siguiente manera:
 
 ## Autor
 
+<<<<<<< HEAD
 - Miguel Ángel Araujo Leyva [LinkedIn: https://www.linkedin.com/in/mangel96/]
+=======
+- Miguel Ángel Araujo Leyva [LinkedIn: https://www.linkedin.com/in/mangel96/]
+>>>>>>> b3504d092b39fa2202d8ccff29cc1b896381e242
